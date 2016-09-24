@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1366542817 source:d:\hussam el dien\studies & books\2nd year\2cd term\c pro\cpu proj\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
+1368605693 source:a:\academic\2nd year\2cd term\c pro\cpu proj\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
+1368605693 source:h:\studies\academic\2nd year\2cd term\c pro\cpu proj\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
